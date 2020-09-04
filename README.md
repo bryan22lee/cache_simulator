@@ -19,7 +19,8 @@
 
   - Implements the Least Recently Used (LRU) replacement policy
   - Compiles into `csim` executable
-  - `csim-linux` compiled executable version included as a release (compiled on Ubuntu 20.04)
+  - `csim-linux` compiled executable version included as a release (tag="demo")
+    - compiled on Ubuntu 20.04
     - works only on Linux
 
 ## Use
