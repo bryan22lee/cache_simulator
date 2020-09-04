@@ -1,7 +1,7 @@
  # Cache simulator in C
 
  ### Simulates cache memory on trace files
- ### (Valgrind memory trace output)
+ ### (from Valgrind memory trace output)
 
  #### Files:
   - `csim.c`: Source code
