@@ -19,7 +19,7 @@
 
   - Implements the Least Recently Used (LRU) replacement policy
   - Compiles into `csim` executable
-  - `csim-linux` [compiled executable version](https://github.com/bryan22lee/cache_simulator/releases/tag/demo) included as a [release](https://github.com/bryan22lee/cache_simulator/releases/tag/demo) (tag="demo"), available for download
+  - `csim-linux` compiled executable version included as a [release](https://github.com/bryan22lee/cache_simulator/releases/tag/demo) (tag="demo"), available for [download](https://github.com/bryan22lee/cache_simulator/releases/tag/demo)
     - compiled on Ubuntu 20.04
     - works only on Linux
 
